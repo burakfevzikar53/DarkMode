@@ -1,3 +1,7 @@
+![dark](https://user-images.githubusercontent.com/49106046/187190039-db890a67-175c-4370-ad02-5910123e5aed.PNG)
+![light](https://user-images.githubusercontent.com/49106046/187190041-91e3baea-fc86-404c-89e7-9ccdadfe2462.PNG)
+
+
 
 #npm install react-switch
 
